@@ -1,0 +1,17 @@
+{
+  "name": "platter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fintree's devteam",
+  "license": "ISC",
+  "dependencies": {
+    "react-native": "^0.63.4"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.59.0"
+  }
+}
